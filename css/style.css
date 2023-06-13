@@ -1,0 +1,50 @@
+header,
+.footer {
+    background-color: #0966AF;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+header .nav-link {
+    color: #fff;
+}
+
+header .nav-link:focus,
+header .nav-link:hover {
+    color: #fff;
+}
+
+.hero-home {
+    padding: 50px 0 50px 0;
+}
+
+.btn-aqui {
+    position: absolute;
+    right: 150px;
+}
+
+.section-voz {
+    background-color: #0062FF;
+}
+
+.section-video {
+    background: url("../img/bg-vid.png");
+    background-position: center;
+    background-size: contain;
+}
+
+.section-title {
+    color: #0062FF;
+    font-weight: 600;
+    padding-bottom: 20px;
+}
+
+.container-blue {
+    max-width: 1100px;
+}
+
+.video-title {
+    color: #29E72E;
+}
